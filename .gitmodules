@@ -1,0 +1,6 @@
+[submodule "chaz"]
+	path = chaz
+	url = https://github.com/lcjgames/chaz.git
+[submodule "chaz_backend"]
+	path = chaz_backend
+	url = https://github.com/sousajo-cc/chaz_backend.git
