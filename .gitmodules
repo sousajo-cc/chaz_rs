@@ -4,3 +4,6 @@
 [submodule "chaz_backend"]
 	path = chaz_backend
 	url = https://github.com/sousajo-cc/chaz_backend.git
+[submodule "chaz_web"]
+	path = chaz_web
+	url = https://github.com/sjgames/chaz_web
